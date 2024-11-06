@@ -1,9 +1,9 @@
 mountpoints:
-  #/:
-   #url: "https://adobe-my.sharepoint.com/:f:/r/personal/kmanns_adobe_com/Documents/2024/Projects/Edge%20Delivery%20Services/billiejean?csf=1&web=1&e=skldCQ"
-    #type: "markup"
-    #suffix: ".html"
-    /: https://adobe-my.sharepoint.com/:f:/r/personal/kmanns_adobe_com/Documents/2024/Projects/Edge%20Delivery%20Services/billiejean?csf=1&web=1&e=skldCQ
+#/:
+#url: "https://adobe-my.sharepoint.com/:f:/r/personal/kmanns_adobe_com/Documents/2024/Projects/Edge%20Delivery%20Services/billiejean?csf=1&web=1&e=skldCQ"
+#type: "markup"
+#suffix: ".html"
+/: https://adobe-my.sharepoint.com/:f:/r/personal/kmanns_adobe_com/Documents/2024/Projects/Edge%20Delivery%20Services/billiejean?csf=1&web=1&e=skldCQ
 
 folders:
   /products/plan/: /products/plan/default
