@@ -1,13 +1,13 @@
 # The default is for AEM UE. Make sure to change the URL to your AEM instance and GitHub repository.
 # mountpoints:
-#   /:
-#     url: "https://author-p137452-e1384552.adobeaemcloud.com/bin/franklin.delivery/kmanns/moonwalker/main"
-#     type: "markup"
-#     suffix: ".html"
+  /:
+    url: "https://author-p137452-e1384552.adobeaemcloud.com/bin/franklin.delivery/kmanns/moonwalker/main"
+    type: "markup"
+    suffix: ".html"
 
-# Use the following for Doc-based authoring. Make sure to change it to your SharePoint or Google Drive url.
-mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/Solution-LedMSCTeam-InternalCommerceSCTeam/Shared%20Documents/Internal%20Commerce%20SC%20Team/Edge%20Delivery%20Services%20Projects/billiejean?csf=1&web=1&e=zFHYcl
+# # Use the following for Doc-based authoring. Make sure to change it to your SharePoint or Google Drive url.
+# mountpoints:
+#   /: https://adobe.sharepoint.com/:f:/r/sites/Solution-LedMSCTeam-InternalCommerceSCTeam/Shared%20Documents/Internal%20Commerce%20SC%20Team/Edge%20Delivery%20Services%20Projects/billiejean?csf=1&web=1&e=zFHYcl
 
 folders:
   /products/plan/: /products/plan/default
